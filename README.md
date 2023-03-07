@@ -5,6 +5,6 @@ Entity Relation Diagram for Student Logbook
 ### Sys_role
 Справочная таблица системных ролей
 #### Атрибуты
-id: Integer (Primary Key) - обычный айдишник
-name: String 
+ + id: Integer (Primary Key) - обычный айдишник
+ + name: String 
 
