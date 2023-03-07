@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T13:29:41.324Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="i9NkQM4jyTL_YOMFuy0B" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T13:32:38.772Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="RegJatHKng8MHT8jsrlG" version="21.0.2" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="1659" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -110,7 +110,7 @@
           <mxGeometry y="150" width="262.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="supBZS_v4sKo8cakVpw4-38" value="Mark" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="310" width="140" height="180" as="geometry" />
+          <mxGeometry x="1190" y="310" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="supBZS_v4sKo8cakVpw4-39" value="&lt;b&gt;id: Integer PK&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="supBZS_v4sKo8cakVpw4-38" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -123,9 +123,6 @@
         </mxCell>
         <mxCell id="supBZS_v4sKo8cakVpw4-42" value="id_lesson: Integer &lt;b&gt;FK&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="supBZS_v4sKo8cakVpw4-38" vertex="1">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="supBZS_v4sKo8cakVpw4-43" value="description: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="supBZS_v4sKo8cakVpw4-38" vertex="1">
-          <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="supBZS_v4sKo8cakVpw4-44" value="Lesson" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="500" width="230" height="150" as="geometry" />
